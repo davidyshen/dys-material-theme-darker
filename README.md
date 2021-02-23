@@ -1,45 +1,8 @@
-
-<p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme#review-details"><img src="https://vsmarketplacebadge.apphb.com/rating-star/Equinusocio.vsc-community-material-theme.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08"/></a> <a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Equinusocio.vsc-community-material-theme.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&label=DOWNLOADS"/></a> <a href="https://a.paddle.com/v2/click/16413/37697?link=1227"><img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20Course%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
-</p>
-
-
-# Communication ⚠️
-
-This project is community-maintained. You can find the official [Material Theme here](https://github.com/material-theme/vsc-material-theme).
-
----
-
-The most epic theme meets Visual Studio Code. You can help by reporting issues [here](https://github.com/material-theme/vsc-community-material-theme/issues).
-
-- [Getting started](#getting-started)
-  - [Installation](#installation)
-      - [GitHub Repository Clone](#github-repository-clone)
-- [Activate theme](#activate-theme)
-- [Override theme colors](#override-theme-colors)
-  - [Color Scheme override](#color-scheme-override)
-- [Recommended settings for a better experience](#recommended-settings-for-a-better-experience)
-- [Other resources](#other-resources)
-
-## Getting started
-
-You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme).
+# VSC-community-material-theme
+This is a slightly modified version of the [Material Theme](https://github.com/material-theme/vsc-material-theme).
+Difference is that the comments are slightly lighter `#4A4A4A` -> `#707070`
 
 ### Installation
-
-Launch *Quick Open*:
-  - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
-  - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘P`
-  - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl+P`
-
-Paste the following command and press `Enter`:
-
-```shell
-ext install material theme
-```
-
-And pick the one by **Mattia Astorino (Equinusocio)** (me) as author.
-
 ##### GitHub Repository Clone
 
 Change to your `.vscode/extensions` [VS Code extensions directory](https://code.visualstudio.com/docs/extensions/install-extension#_side-loading).
@@ -49,10 +12,10 @@ Depending on your platform it is located in the following folders:
   - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> **macOs** `~/.vscode/extensions`
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> **Windows** `%USERPROFILE%\.vscode\extensions`
 
-Clone the Material Theme repository as `Equinusocio.vsc-community-material-theme`:
+Clone the Material Theme repository as `dys-material-darker-theme`:
 
 ```shell
-git clone https://github.com/material-theme/vsc-community-material-theme.git Equinusocio.vsc-community-material-theme
+git clone https://github.com/davidyshen/vsc-community-material-theme.git dys-material-darker-theme
 ```
 
 ## Activate theme
