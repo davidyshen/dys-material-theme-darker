@@ -15,7 +15,7 @@ Depending on your platform it is located in the following folders:
 Clone the Material Theme repository as `dys-material-darker-theme`:
 
 ```shell
-git clone https://github.com/davidyshen/vsc-community-material-theme.git dys-material-darker-theme
+git clone https://github.com/davidyshen/dys-material-theme-darker.git dys-material-darker-theme
 ```
 
 ## Activate theme
